@@ -1,3 +1,9 @@
+"""
+    From Sophia's repository https://github.com/sophiabano/FetReg2021/blob/master/fetreg-reg/ssim_processing.py
+    Required for the framelistmetric.py to work
+    Modified some of the code so that functions referenced from other files are directly added to this file
+"""
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
